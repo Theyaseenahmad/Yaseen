@@ -13,15 +13,15 @@ const Navbar = () => {
 
 
         <div className="flex items-center justify-around h-full w-full md:w-[40%] ">
-            <div onClick={()=>
+            <div  onClick={()=>
           document.getElementById('my_modal_2').showModal()
-        } className="leading-tight tracking-tighter" href="">about</div>
+        } className="leading-tight tracking-tighter hover:cursor-pointer" href="">about</div>
 
             <AboutDialog></AboutDialog>
 
             <div onClick={()=>
           document.getElementById('my_modal_1').showModal()
-        } className="leading-tight tracking-tighter" href="">Contact me</div>
+        } className="leading-tight tracking-tighter hover:cursor-pointer" href="">Contact me</div>
 
             <Dialog></Dialog>
             <a  href="https://drive.google.com/file/d/17WXyHpNieMgaVb3ilWPzkRsEZ4IqzKT_/view?usp=sharing" className="leading-tight tracking-tighter bg-gradient-to-t from-[#cfc09f] via-[#95771e] to-[#ffae0b] text-transparent bg-clip-text" >My resume</a>
