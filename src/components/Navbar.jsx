@@ -7,7 +7,7 @@ const Navbar = () => {
     <div className="w-full h-[13vh]  flex items-center p-2 justify-around uppercase text-xs font-bold">
         <div className="h-full w-[30%] md:w-[20%]  flex items-center justify-center">
           
-          <a href={'/'} className=" h-full w-[100%]"><img className=" h-full " src="src\assets\logo.png" alt="" /></a>
+          <a href={'/'} className=" h-full w-[100%]"><img className=" h-full " src="\assets\logo.png" alt="" /></a>
         
         </div>
 

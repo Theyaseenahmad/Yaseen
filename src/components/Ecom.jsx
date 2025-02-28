@@ -52,7 +52,7 @@ const Ecom = () => {
 <div id="circle" ref={circle} className="absolute md:flex md:flex-col hidden md:visible justify-start items-start top-0 left-0 size-32 pointer-events-none  rounded-full bg-slate-950 p-6 text-md font-bold -z-40 border-[2px] border-[#ffae0b]"><h2 className="bg-gradient-to-t from-[#cfc09f] via-[#95771e] to-[#ffae0b] text-transparent bg-clip-text">View </h2><h2 className="bg-gradient-to-t from-[#cfc09f] via-[#95771e] to-[#ffae0b] text-transparent bg-clip-text">Website</h2></div>
 
   <div  className="w-[33%] h-full rounded-tl-lg rounded-bl-lg overflow-hidden">
-    <img src="src\assets\bag.png" className="w-full h-full object-cover" alt="" />
+    <img src="\assets\bag.png" className="w-full h-full object-cover" alt="" />
   </div>
   
   <div  className="w-[67%] p-4 h-full bg-[#222222] rounded-tr-lg rounded-br-lg flex flex-col justify-start items-start gap-2">

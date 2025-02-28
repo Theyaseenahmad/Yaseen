@@ -7,7 +7,7 @@ const Video = () => {
           muted
           loop
           className="w-full h-full bg-cover brightness-30"
-          src="src\assets\video2.mp4"
+          src="\assets\video2.mp4"
         ></video>
         <div className="w-full h-full absolute bg-black opacity-80 z-10 top-0 left-0 "></div>
         <div className="absolute w-full h-full top-0 left-0 z-20 gap-2 flex flex-col justify-center items-center uppercase">
@@ -21,7 +21,7 @@ const Video = () => {
             <div className="h-full m-2  lg:visible">
               <img
                 className="h-full w-full bg-cover -rotate-90 "
-                src="src\assets\animate.gif"
+                src="\assets\animate.gif"
               ></img>
             </div>
 
@@ -31,7 +31,7 @@ const Video = () => {
 
 
               <div className="w-full h-full rounded-full overflow-hidden ">
-                <img className="h-full w-full bg-cover bg-center" src="src\assets\dp.jpg" alt="" />
+                <img className="h-full w-full bg-cover bg-center" src="\assets\dp.jpg" alt="" />
               </div>
             </div>
           </div>
