@@ -51,7 +51,7 @@ const ChessCard = () => {
 
       
 
-<a href="/" id="circle" ref={circle} className="absolute hover:cursor-pointer md:flex md:flex-col hidden md:visible justify-start items-start top-0 left-0 size-32  rounded-full bg-slate-950 p-6 text-md font-bold -z-40 border-[2px] border-[#ffae0b]"><h2 className="bg-gradient-to-t from-[#cfc09f] via-[#95771e] to-[#ffae0b] text-transparent bg-clip-text">View </h2><h2 className="bg-gradient-to-t from-[#cfc09f] via-[#95771e] to-[#ffae0b] text-transparent bg-clip-text">Website</h2></a>
+<a href="https://chess-ghz3.onrender.com" id="circle" ref={circle} className="absolute hover:cursor-pointer md:flex md:flex-col hidden md:visible justify-start items-start top-0 left-0 size-32  rounded-full bg-slate-950 p-6 text-md font-bold -z-40 border-[2px] border-[#ffae0b]"><h2 className="bg-gradient-to-t from-[#cfc09f] via-[#95771e] to-[#ffae0b] text-transparent bg-clip-text">View </h2><h2 className="bg-gradient-to-t from-[#cfc09f] via-[#95771e] to-[#ffae0b] text-transparent bg-clip-text">Website</h2></a>
 
   <div  className="w-[33%] h-full rounded-tl-lg rounded-bl-lg overflow-hidden">
     <img src="https://static.vecteezy.com/system/resources/previews/024/118/842/large_2x/chess-queen-on-chessboard-ai-generated-free-photo.jpg" className="w-full h-full object-cover" alt="" />
