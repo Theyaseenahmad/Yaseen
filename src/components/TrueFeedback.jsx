@@ -49,11 +49,11 @@ const TrueFeedback = () => {
      <div ref={card} onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave} onMouseMove={handleMouseMove} id="card"  className="flex relative gap-1 md:w-[75%] w-[90%] bg-black  h-60 justify-center">
 
       
-            <a href="" className="absolute top-1 right-3  md:hidden text-base font-bold flex justify-center items-center  p-2"><h1 className="bg-gradient-to-t from-[#cfc09f] via-[#95771e] to-[#ffae0b] text-transparent bg-clip-text">Visit</h1> <LuArrowBigRight className="text-[#ffae0b]" /></a>
+            <a href="https://anonymous-indol.vercel.app/" className="absolute top-1 right-3  md:hidden text-base font-bold flex justify-center items-center  p-2"><h1 className="bg-gradient-to-t from-[#cfc09f] via-[#95771e] to-[#ffae0b] text-transparent bg-clip-text">Visit</h1> <LuArrowBigRight className="text-[#ffae0b]" /></a>
 
       
 
-<a href="" id="circle" ref={circle} className="absolute hover:cursor-pointer md:flex md:flex-col hidden md:visible justify-start items-start top-0 left-0 size-32   rounded-full bg-slate-950 p-6 text-md font-bold -z-40 border-[2px] border-[#ffae0b]"><h2 className="bg-gradient-to-t from-[#cfc09f] via-[#95771e] to-[#ffae0b] text-transparent bg-clip-text">View </h2><h2 className="bg-gradient-to-t from-[#cfc09f] via-[#95771e] to-[#ffae0b] text-transparent bg-clip-text">Website</h2></a>
+<a href="https://anonymous-indol.vercel.app/" id="circle" ref={circle} className="absolute hover:cursor-pointer md:flex md:flex-col hidden md:visible justify-start items-start top-0 left-0 size-32   rounded-full bg-slate-950 p-6 text-md font-bold -z-40 border-[2px] border-[#ffae0b]"><h2 className="bg-gradient-to-t from-[#cfc09f] via-[#95771e] to-[#ffae0b] text-transparent bg-clip-text">View </h2><h2 className="bg-gradient-to-t from-[#cfc09f] via-[#95771e] to-[#ffae0b] text-transparent bg-clip-text">Website</h2></a>
 
   <div  className="w-[33%] h-full rounded-tl-lg rounded-bl-lg overflow-hidden">
     <img src="\assets\fb2.png" className="w-full h-full object-cover" alt="" />
