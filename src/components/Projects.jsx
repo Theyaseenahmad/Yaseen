@@ -5,6 +5,7 @@ import TrueFeedback from './TrueFeedback'
 import Saas from './Saas'
 import Ecom from './Ecom'
 import UberExt from './UberExt'
+import Genform from './GenForm'
 
 const Projects = ({projectRef}) => {
   return (
@@ -14,6 +15,7 @@ const Projects = ({projectRef}) => {
           <Ecom></Ecom>
           <ChessCard></ChessCard>
           <CrowdFunds></CrowdFunds>
+          <Genform></Genform>
           <TrueFeedback></TrueFeedback>
           <Saas></Saas>
           <UberExt></UberExt>
