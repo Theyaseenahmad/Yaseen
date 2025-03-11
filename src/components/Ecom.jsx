@@ -48,7 +48,7 @@ const Ecom = () => {
 {/* main card */}
      <div ref={card} onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave} onMouseMove={handleMouseMove} id="card"  className="flex relative gap-1 md:w-[75%] w-[90%] bg-black  h-60 justify-center">
       
-            <a href="" className="absolute top-1 right-3  md:hidden text-base font-bold flex justify-center items-center  p-2"><h1 className="bg-gradient-to-t from-[#cfc09f] via-[#95771e] to-[#ffae0b] text-transparent bg-clip-text">Visit</h1> <LuArrowBigRight className="text-[#ffae0b]" /></a>
+            <a href="https://solar-va9s.onrender.com/" className="absolute top-1 right-3  md:hidden text-base font-bold flex justify-center items-center  p-2"><h1 className="bg-gradient-to-t from-[#cfc09f] via-[#95771e] to-[#ffae0b] text-transparent bg-clip-text">Visit</h1> <LuArrowBigRight className="text-[#ffae0b]" /></a>
 
       
 
