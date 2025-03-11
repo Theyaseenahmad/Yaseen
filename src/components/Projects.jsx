@@ -4,7 +4,7 @@ import CrowdFunds from './CrowdFunds'
 import TrueFeedback from './TrueFeedback'
 import Saas from './Saas'
 import Ecom from './Ecom'
-import UberExt from './UberExt'
+// import UberExt from './UberExt'
 import Genform from './GenForm'
 
 const Projects = ({projectRef}) => {
@@ -18,7 +18,7 @@ const Projects = ({projectRef}) => {
           <Genform></Genform>
           <TrueFeedback></TrueFeedback>
           <Saas></Saas>
-          <UberExt></UberExt>
+          {/* <UberExt></UberExt> */}
           
           
           
