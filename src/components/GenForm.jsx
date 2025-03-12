@@ -65,7 +65,7 @@ const Genform = () => {
       Genform : Schema to form generator</h2>
       </div>
 
-      <div><p className="text-xs font-semibold">GenForm is a powerful and flexible dynamic form generator that allows you to create complex forms using JSON schema definitions. Built with React and styled with Tailwind CSS, it provides a beautiful and intuitive interface for generating and managing forms.</p></div>
+      <div><p className="text-xs font-semibold">GenForm is a powerful and flexible dynamic form generator that allows you to create complex forms using JSON schema definitions. Built with React and styled with Tailwind CSS, it provides for generating forms.</p></div>
 
   </div>
   
