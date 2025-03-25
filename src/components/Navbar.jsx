@@ -24,7 +24,7 @@ const Navbar = () => {
         } className="leading-tight tracking-tighter hover:cursor-pointer" href="">Contact me</div>
 
             <Dialog></Dialog>
-            <a  href="https://drive.google.com/file/d/1mtSFX2Pi5lbAlbAVJzQVEipBK_z2NkAZ/view?usp=sharing" className="leading-tight tracking-tighter bg-gradient-to-t from-[#cfc09f] via-[#95771e] to-[#ffae0b] text-transparent bg-clip-text" >My resume</a>
+            <a  href="https://drive.google.com/file/d/1VtB_o8tL_EMoEHOZorB7oQtMZ7KSPnjD/view?usp=sharing" className="leading-tight tracking-tighter bg-gradient-to-t from-[#cfc09f] via-[#95771e] to-[#ffae0b] text-transparent bg-clip-text" >My resume</a>
         </div>
     </div>
   )
